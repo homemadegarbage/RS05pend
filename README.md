@@ -3,6 +3,9 @@
 
 ATOM Matrix の MPU6886 で Y 軸傾斜角をカルマンフィルタ推定し、角度と角速度の PD 制御で RobStride 05 を速度モード駆動する Arduino スケッチです。
 
+詳細はコチラ
+ https://homemadegarbage.com/codex01
+
 ## Hardware
 
 - MCU: M5Stack ATOM Matrix
